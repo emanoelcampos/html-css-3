@@ -4,9 +4,43 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contato</title>
+    <link rel="stylesheet" href="/reset.css">
+    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="contato.css">
+    <title>Contato - Barbearia Alura</title>
 </head>
 <body>
-    
+    <header>
+        <div class="caixa">
+            <h1><img src="../assets/logo.png" alt="logo barbearia alura"></h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Produtos</a></li>
+                    <li><a href="#">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <form>
+            <label for="nomeSobrenome">Nome e sobrenome</label>
+            <input type="text" id="nomeSobrenome">
+
+            <label for="email">Email</label>
+            <input type="text"id="email">
+
+            <label for="telefone">Telefone</label>
+            <input type="text" id="telefone">
+
+            <input type="submit" value="Enviar formulário">
+        </form>
+    </main>
+
+    <footer>
+        <img src="../assets/logo-branco.png" alt="logo alura">
+        <p class="copyright">&copy; Copyright Barbearia Alura - 2023</p>
+    </footer>
 </body>
 </html>
