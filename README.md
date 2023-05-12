@@ -8,7 +8,7 @@ O projeto desenvolvido durante o curso consistiu na criação de uma página web
 
 
 <div align="center">
-<img alt="página projeto" height="393" width="700" src="https://raw.githubusercontent.com/emanoelcampos/html-css-3/master/assets/readme-img.png">
+<img alt="página projeto" height="503" width="700" src="https://raw.githubusercontent.com/emanoelcampos/html-css-3/master/assets/readme-img.png">
  </div>
 
 
