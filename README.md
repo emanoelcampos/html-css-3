@@ -14,22 +14,22 @@ O projeto desenvolvido durante o curso consistiu na criação de uma página web
 
 ## Assuntos abordados no curso:
 
-- Criação do formulário de contato usando a tag form
-- Uso das tags label, input e textarea para criar campos de formulário
-- Tipos de input disponíveis, incluindo text, email, number, date, entre outros
-- Relação entre a tag label e a tag input e sua importância para acessibilidade
-- Uso da propriedade required para tornar campos obrigatórios
-- Uso da propriedade placeholder para fornecer exemplos de dados a serem inseridos
-- Uso da tag fieldset e legend para agrupar campos relacionados
-- Uso da tag select, checkbox e radio para permitir a seleção de opções
-- Criação de um botão de submit para enviar o formulário
-- Criação de uma tabela usando a tag table
+- Criação do formulário de contato usando a tag `form`
+- Uso das tags `label`, `input` e `textarea` para criar campos de formulário
+- Tipos de `input` disponíveis, incluindo `text`, `email`e `number`
+- Relação entre a tag `label` e a tag `input` e sua importância para acessibilidade
+- Uso da propriedade `required` para tornar campos obrigatórios
+- Uso da propriedade `placeholder` para fornecer exemplos de dados a serem inseridos
+- Uso da tag `fieldset` e `legend` para agrupar campos relacionados
+- Uso da tag `select`, `checkbox` e `radio` para permitir a seleção de opções
+- Criação de um botão de `submit` para enviar o formulário
+- Criação de uma tabela usando a tag `table`
 - Formatação da tabela usando CSS, incluindo estilos para a borda, fundo e espaçamento das células
-- Reaproveitamento do código HTML do header do curso 2
-- Uso da propriedade alt para melhorar a acessibilidade do cabeçalho
+- Reaproveitamento do código HTML do `header` do curso 2
+- Uso da propriedade `alt` para melhorar a acessibilidade do cabeçalho
 - Uso do CSS para estilizar o formulário e tabela
-- Uso da propriedade display-block para controlar o layout dos elementos
-- Uso das propriedades transform e transition para adicionar animações aos elementos
+- Uso da propriedade `display-block` para controlar o layout dos elementos
+- Uso das propriedades `transform` e `transition` para adicionar animações aos elementos
 
 ## Minha jornada:
 
