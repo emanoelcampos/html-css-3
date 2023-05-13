@@ -11,7 +11,6 @@ O projeto desenvolvido durante o curso consistiu na criação de uma página web
 <img alt="página projeto" height="503" width="700" src="https://raw.githubusercontent.com/emanoelcampos/html-css-3/master/assets/readme-img.png">
  </div>
 
-
 ## Assuntos abordados no curso:
 
 - Criação do formulário de contato usando a tag `form`
