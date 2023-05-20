@@ -32,7 +32,7 @@ O projeto desenvolvido durante o curso consistiu na criação de uma página web
 
 ## Minha jornada:
 
-Este repositório é um registro de todo o meu avanço no segundo curso de HTML e CSS, que se deu pela continuação do projeto do site que foi iniciado no primeiro curso. Além de reforçar os conceitos aprendidos anteriormente, novos conceitos foram introduzidos e colocados em prática. Durante o curso, pude aplicar esses conceitos através de exercícios e atividades práticas. Todos eles estão organizados por módulo e podem ser encontrados em suas respectivas pastas. Desenvolvi uma página web estática utilizando HTML e CSS para consolidar o conhecimento adquirido e aplicar os novos conceitos aprendidos.
+Este repositório é um registro de todo o meu avanço no terceiro curso de HTML e CSS, que se deu pela continuação do projeto do site que foi iniciado no primeiro curso. Além de reforçar os conceitos aprendidos anteriormente, novos conceitos foram introduzidos e colocados em prática. Durante o curso, pude aplicar esses conceitos através de exercícios e atividades práticas. Todos eles estão organizados por módulo e podem ser encontrados em suas respectivas pastas. Desenvolvi uma página web estática utilizando HTML e CSS para consolidar o conhecimento adquirido e aplicar os novos conceitos aprendidos.
 
 ## Consolidando conhecimentos:
 
